@@ -41,7 +41,7 @@ feel free to open topics there.
 
 Please report bugs on our [bug tracker](http://github.com/OpenRC/openrc/issues).
 
-If you can contribute code , please feel free to do so by opening
+If you can contribute code, please feel free to do so by opening
 [pull requests](https://github.com/OpenRC/openrc/pulls).
 
 ## IRC Channel
